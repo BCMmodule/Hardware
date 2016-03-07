@@ -20,4 +20,4 @@ Design and Document files for the BeagleCore BCM1 and BCS1 based on BeagleBone B
 - Documentation
 - Test Summary
 
-Except where otherwise noted, licensed under a [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)
+Except where otherwise noted, licensed under a [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/). All derivative works are to be attributed to Gerald Coley of [BeagleBoard.org](http://beagleboard.org).
