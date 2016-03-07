@@ -6,6 +6,8 @@ Design and Document files for the BeagleCore BCM1 and BCS1 based on BeagleBone B
 - BOM
 - Footprint Drawing
 - Gerber files
+- step file
+- Altium library
 - Pick & Place
 - Schematic Prints
 
