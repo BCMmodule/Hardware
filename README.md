@@ -2,14 +2,15 @@
 Design and Document files for the BeagleCore BCM1 and BCS1 based on BeagleBone Black from [BeagleBoard.org](http://beagleboard.org)
 
 ## BeagleCore BCM1 Contents
+- Altium library
 - Assembly Drawings
 - BOM
 - Footprint Drawing
 - Gerber files
-- step file
-- Altium library
 - Pick & Place
 - Schematic Prints
+- Step file
+- System Reference Manual
 
 ## BeagleCore BCS1 Contents
 - Assembly Drawings
