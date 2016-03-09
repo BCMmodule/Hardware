@@ -1,4 +1,4 @@
-# BeagleCore BCM1 and BCS1
+# [BeagleCore BCM1 and BCS1](http://beaglecore.com)
 Design and Document files for the BeagleCore BCM1 and BCS1 based on BeagleBone Black from [BeagleBoard.org](http://beagleboard.org)
 
 ## BeagleCore BCM1 Contents
