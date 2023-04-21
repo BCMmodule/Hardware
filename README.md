@@ -1,7 +1,7 @@
-# [BeagleCore™ BCM1 and BCS1](http://beaglecore.com)
-Design and Document files for the BeagleCore™ BCM1 and BCS1 based on BeagleBone Black from [BeagleBoard.org](http://beagleboard.org). Please check out our [FAQ](https://github.com/BeagleCore/Hardware/wiki/FAQ) for questions and answers.
+# [BCM1 and BCS1](https://bcm-module.com)
+Design and Document files for the BCM1 and BCS1 based on BeagleBone Black from [BeagleBoard.org](http://beagleboard.org). Please check out our [FAQ](https://github.com/BeagleCore/Hardware/wiki/FAQ) for questions and answers.
 
-## BeagleCore™ BCM1 Contents
+## BCM1 Contents
 - Altium library
 - Assembly Drawings
 - BOM
@@ -12,7 +12,7 @@ Design and Document files for the BeagleCore™ BCM1 and BCS1 based on BeagleBon
 - Step file
 - System Reference Manual
 
-## BeagleCore™ BCS1 Contents
+## BCS1 Contents
 - Assembly Drawings
 - BOM
 - Gerber files
